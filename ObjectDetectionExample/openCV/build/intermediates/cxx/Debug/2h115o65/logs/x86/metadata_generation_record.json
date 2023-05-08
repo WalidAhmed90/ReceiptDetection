@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1307665245
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86/android_gradle_build.json due to:",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -546510190
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1571492846
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86\u0027",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1021481161
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86\u0027",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1793583829
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/walidahmed/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/walidahmed/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 13006601
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/walidahmed/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/walidahmed/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/walidahmed/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/build/intermediates/cxx/Debug/2h115o65/obj/x86 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1605817898
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86/compile_commands.json.bin normally",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -827257766
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -838518674
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/Debug/2h115o65/x86/compile_commands.json to /Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/.cxx/tools/debug/x86/compile_commands.json",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -69330518
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/walidahmed/AndroidStudioProjects/ObjectDetectionExample/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1099554410
+  }
+]

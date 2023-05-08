@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObjectDetectionExample</string>
+    <string name="crop">Crop</string>
+</resources>
